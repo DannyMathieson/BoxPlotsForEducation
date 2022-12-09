@@ -31,13 +31,13 @@ Jin-sol Jung, Jackson Livanec, Danny Mathieson
 Creative Commons
 
 ## References
-1. U.S. Census Bureau. 2020. Annual Survey of School System Finances. https: //www.census.gov/programs-surveys/school-finances.html
+1. U.S. Census Bureau. 2020. Annual Survey of School System Finances. https://www.census.gov/programs-surveys/school-finances.html
  
-2. Melanie Hanson. 2022. U.S. Public Education Spending Statistics. https:// educationdata.org/public- education- spending- statistics
+2. Melanie Hanson. 2022. U.S. Public Education Spending Statistics. https://educationdata.org/public-education-spending-statistics
 
-3. American University School of Education. 2020. Inequality in Public School Funding: Key Issues Solutions for Closing the Gap. https://soeonline.american. edu/blog/inequality- in- public- school- funding/
+3. American University School of Education. 2020. Inequality in Public School Funding: Key Issues Solutions for Closing the Gap. https://soeonline.american.edu/blog/inequality-in-public-school-funding/
 
 4. Driven Data. 2020. Reboot: Box-Plots for Education. Code Repository. https://github.com/drivendataorg/box-plots-for-education
 
-5. Educational Resource Strategies. 2022. ERS, Who We Are. https://www. erstrategies.org/info/who_we_are
+5. Educational Resource Strategies. 2022. ERS, Who We Are. https://www.erstrategies.org/info/who_we_are
 
